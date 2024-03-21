@@ -16,7 +16,11 @@ export default {
         'sky-blue': '#3092f2',
         'sky-blue-light': '#BAD9FC',
         'sky-blue-light-2': '#9dc3f3',
-      }
+      },
+      screens: {
+        'xs': '280px',
+        // => @media (min-width: 400px) { ... }
+    }
     },
   },
   plugins: [],
