@@ -19,7 +19,7 @@ export default {
       },
       screens: {
         'xs': '280px',
-        // => @media (min-width: 400px) { ... }
+        // => @media (min-width: 280px) { ... }
     }
     },
   },
