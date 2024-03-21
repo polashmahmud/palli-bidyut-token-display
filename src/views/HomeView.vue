@@ -113,7 +113,7 @@ const reset = () => {
     </div>
 
     <div
-        class="flex flex-col items-center py-2 space-y-1 text-sm sm:space-y-0 sm:space-x-3 sm:items-center sm:justify-center sm:flex-row bg-dark-blue-light-2 text-sky-blue-light/70">
+        class="flex items-center py-2 space-y-1 text-xs sm:space-y-0 sm:space-x-1 justify-center bg-dark-blue-light-2 text-sky-blue-light/70">
       <span>Developed by:</span>
       <a href="https://github.com/polashmahmud" target="_blank"
          class="hover:underline hover:text-sky-blue-light/80 underline-offset-4">Polash Mahmud</a>
